@@ -12,3 +12,11 @@ commit 2 on branchA
 commit 3 on branchA
 
 commit 4 on branchA
+
+
+
+commit 1 on branchB
+
+commit 2 on branchB
+
+commit 3 on branchB
